@@ -42,6 +42,20 @@ bld/
 
 # Visual Studio 2017 auto generated files
 Generated\ Files/
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+/*.tmp
+/*.svd
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
